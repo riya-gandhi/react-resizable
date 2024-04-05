@@ -1,0 +1,13 @@
+{
+  "data": [{
+    "component1": {
+      "data": "Initial data for component 1"
+    },
+    "component2": {
+      "data": "Initial data for component 2"
+    },
+    "component3": {
+      "data": "Initial data for component 3"
+    }
+  }]
+}
